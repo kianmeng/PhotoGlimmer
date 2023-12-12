@@ -6,7 +6,7 @@
 # email     : codecliff@users.noreply.github.com
 # Disclaimer: No warranties, stated or implied.   
 #  Description : 
-# Backend for the applicaiton. 
+# Backend for the application. 
 # Is totally frontend-agnostic and can be plugged in with another UI  
 # Multithreading is to be handled by the frontend 
 # ###############################################################################

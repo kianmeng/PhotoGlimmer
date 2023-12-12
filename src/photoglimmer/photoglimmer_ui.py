@@ -6,7 +6,7 @@
 # email     : codecliff@users.noreply.github.com
 # Disclaimer: No warranties, stated or implied.   
 #  Description:  
-# Entry point for the applicaiton. 
+# Entry point for the application. 
 # Handles all UI related activities and some ui stylization, even though 
 # the UI is almost entirely defined in a .ui file created using QT Designer 
 # ###############################################################################

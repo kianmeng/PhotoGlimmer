@@ -55,7 +55,7 @@ jobs:
           name: linuxartifacts 
           path: "./dist/"
 
-      - uses: marvinpinto/action-automatic-releases@latest # {{xyz}}varaibles not available in uses
+      - uses: marvinpinto/action-automatic-releases@latest # {{xyz}}variables not available in uses
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"          
           automatic_release_tag: "${{ inputs.reltag }}" 

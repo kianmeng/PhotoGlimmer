@@ -6,7 +6,7 @@
 
 # About
 
-PhotoGlimmer is an image editing application that leverages Artifical Intelligence tools to tweak the brightness on people in photos while preserving the background. It can handle large images and does not require a GPU. It's a totally local and offline graphical  application, primarily for Linux Desktops. 
+PhotoGlimmer is an image editing application that leverages Artificial Intelligence tools to tweak the brightness on people in photos while preserving the background. It can handle large images and does not require a GPU. It's a totally local and offline graphical  application, primarily for Linux Desktops. 
 
 It has evolved from something I had originally written to improve a number of phtoographs in my own collection. As an avid photographer I had countless  photos of family, travels, landscapes  and even  indoor parties where the background was stunning but the people in foreground were underlit and looked dim in comparison. I could see that a better illumination of faces and people would do a world of good to the photo, yet was not too keen on paintstakingly selecting shapes on GIMP. This app does that. Behind the scene,it uses Mediapipe and Opencv and improves lighting on people with a couple of gentle nudgest to 2-3 slliders. 
 
@@ -27,7 +27,7 @@ Unlike similar phone app, Photoglimmer gives you full control of the segmentatio
 
 - ** Foreground/People/Face Lighting**: PhotoGlimmer intelligently detects people in your photos and helps you manually  enhance the lighting for a natural and appealing look. You can both brighten and darken the people in foreground.
 
-- ** Background Illumination **: Toggle a switch and you can chane the luminosity of background. 
+- ** Background Illumination **: Toggle a switch and you can change the luminosity of background. 
 
 - **Background Preservation**: Say goodbye to painstaking masking and cropping. A few nudges at the sliders ensure that your enhanced foreground blend seamlessly with the original background.
 
@@ -39,7 +39,7 @@ Unlike similar phone app, Photoglimmer gives you full control of the segmentatio
 
 - **Local Processing**: Resides completely on your computer.
 
-- **Self contained**: Instalaltion does not mess with system's python setup. 
+- **Self contained**: Installation does not mess with system's python setup. 
 
 - **Privacy**: Local processing.Therefore no data is sent to any servers.
 
@@ -48,7 +48,7 @@ Unlike similar phone app, Photoglimmer gives you full control of the segmentatio
 
 ## Packaged/Installable  version: 
 
-The packaged/Installable  version of PhotoGlimmer includes all its deprendencies and **the user does NOT need to isntall anything** other than Python 3.8+ 
+The packaged/Installable  version of PhotoGlimmer includes all its deprendencies and **the user does NOT need to install anything** other than Python 3.8+ 
 
 So, if you are using the .deb or .AppImage version, you need to have only **Python version 3.8 or above**
 
@@ -145,7 +145,7 @@ Follow these steps to install dependencies and run PhotoGlimmer :
 ## Known Issues/Limitations: 
 
 - ~~As of now, the the application discards the EXIF data of the image.~~(Implemented) 
-- You cannot simultaneously edit both bakground and foreground in one session.
+- You cannot simultaneously edit both background and foreground in one session.
 - Download size is large due to self-contained nature of application.
 - Issue Tracker is here:  [Issues](https://github.com/codecliff/linuxShort/issues)
 
@@ -156,7 +156,7 @@ Follow these steps to install dependencies and run PhotoGlimmer :
 - Mediapipe
 - Opencv
 - qdarktheme
-- StackOverflow contributos (links in source code) 
+- StackOverflow contributors (links in source code) 
 
 
 ## License

@@ -456,7 +456,7 @@ background-color: rgb(85, 87, 83)</string>
             </widget>
            </item>
            <item row="1" column="0">
-            <widget class="QLabel" name="lablel_brightness">
+            <widget class="QLabel" name="label_brightness">
              <property name="text">
               <string>Brightness</string>
              </property>
